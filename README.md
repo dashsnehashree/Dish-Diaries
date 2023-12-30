@@ -1,2 +1,2 @@
 # Dish-Diaries
-This is a website created with HTML AND CSS
+This is a website which will give  Easy recipes for all type of  dishes
